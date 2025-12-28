@@ -1,0 +1,27 @@
+{
+"user1" : {
+  "login": "Login1",
+  "lastvisited": "2025-10-22",
+  "timespent": 10
+},
+"user2" : {
+  "login": "Login2",
+  "lastvisited": "2025-10-21",
+  "timespent": 20
+},
+"user3" : {
+  "login": "Login3",
+  "lastvisited": "2025-10-20",
+  "timespent": 30
+},
+"user4" : {
+  "login": "Login4",
+  "lastvisited": "2025-10-19",
+  "timespent": 40
+},
+"user5" : {
+  "login": "Login5",
+  "lastvisited": "2025-10-18",
+  "timespent": 50
+}
+}
